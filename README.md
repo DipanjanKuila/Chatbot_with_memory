@@ -1,5 +1,5 @@
 # Chatbot_with_memory
-Chatbot with memory using langchain.
+I'm developing a chatbot with memory using LangChain. In this project, I am storing all chat history in a local database and have created endpoints using FastAPI.
 # Chatbot with Azure OpenAI and SQLAlchemy
 
 Welcome to the Chatbot project, an intelligent conversation agent built using Azure OpenAI's GPT and SQLAlchemy for managing chat history. The chatbot supports starting new conversations, storing messages, fetching conversation history, generating titles for conversations, displaying recent conversations, and deleting conversations.
