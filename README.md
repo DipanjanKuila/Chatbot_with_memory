@@ -39,23 +39,20 @@ This project is a FastAPI-based chatbot API that provides endpoints for querying
 - Pydantic
 
 ##Payload for Query Endpoint
-
 Creating a New Conversation
 To create a new conversation, send the following payload:
 
-json
 {
   "query": "hello how are you"
 }
-
 Using an Existing Conversation
 To continue an existing conversation, send the following payload:
 
-json
 {
   "conversation_id": 1,
   "query": "hello how are you"
 }
+
 
 
 
