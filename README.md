@@ -51,6 +51,7 @@ To continue an existing conversation, send the following payload:
 
 {
   "conversation_id": 1,
+  
   "query": "hello how are you"
 }
 
